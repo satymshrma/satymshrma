@@ -2,15 +2,12 @@
 
 I'm Satyam. I'm a Software Engineer from Dehradun, Uttrakhand, India.
 
-I like to work with front end technologies. I like to work on software that directly interacts with the people using it.
-I have a vested interest in UX/UI and am a hobby/novice/aspirant game dev.
-I am currently studying web based technologies.
+I have little experience in big data, machine learning, and AI technologies, and I like working with user-focused software. I'm currently aiming to grow as a machine learning engineer.
 
-I also like anime, xainxia, to draw & make 3D models.
+I am currently studying AI based technologies.
 
-📫 You can reach me at [@satymshrma](https://t.me/satymshrma) on Telegram, or mail me at satyamsharma.geu@gmail.com
+📫 You can reach me at [@satymshrma](https://t.me/satymshrma) on Telegram, or mail me at satymshrma+DMs@gmail.com
 
-Below are my repositories. (They are a bit messy, and at some places a little incomplete. But I'm working on it, so just bear with me for the while. <3)
 <!--
 **satymshrma/satymshrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
