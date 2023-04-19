@@ -4,7 +4,7 @@ I'm Satyam. I'm a Software Engineer from Dehradun, Uttrakhand, India.
 
 I have little experience in big data, machine learning, and AI technologies, and I like working with user-focused software. I'm currently aiming to grow as a machine learning engineer.
 
-I am currently studying AI based technologies.
+I am currently studying AI & Web based technologies.
 
 📫 You can reach me at [@satymshrma](https://t.me/satymshrma) on Telegram, or mail me at satymshrma+DMs@gmail.com
 
