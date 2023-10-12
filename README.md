@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Satyam. (He/Him)
+I'm Satyam. (He/Him).
 I'm a Software Engineer from Dehradun, Uttrakhand, India.
 
 I have little experience in big data, machine learning, and AI technologies. 
