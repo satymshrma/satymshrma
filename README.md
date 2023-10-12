@@ -1,9 +1,9 @@
-### Hi 👋
+### Hi! 👋
 
-I'm Satyam. (He/Him).
+I'm Satyam.
 I'm a Software Engineer from Dehradun, Uttrakhand, India.
 
-I have little experience in big data, machine learning, and AI technologies. 
+I have little experience in big data, machine learning, and AI tech. 
 I like working with user-focused software and aim to grow as a full-stack and machine-learning engineer.
 
 🌱 I am currently learning AI and web-based technologies.
