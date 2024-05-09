@@ -5,9 +5,9 @@ I'm a Software Engineer from Dehradun, Uttrakhand, India.
 
 I like working with user-focused software and aim to grow as a full-stack developer and machine-learning engineer.
 
-🌱 I am currently learning AI and web-based technologies.
+🌱 I am currently learning new AI and web-based technologies.
 
-I'm open to working remotely, or on-site in India.
+I'm open to work - remotely for anywhere in the world, or on-site/remotely in India.
 
 📫 You can reach me at  [satymshrma+DMs@gmail.com](mailto:satymshrma+DMs@gmail.com)
 
