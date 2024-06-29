@@ -2,15 +2,12 @@
 
 I'm Satyam Sharma.
 I'm a Software Engineer from Dehradun, Uttrakhand, India.
+I like working with user-focused software and working with full-stack & machine-learning tech.
+🌱 I am currently learning new AI technologies like LLMs & Stable Diffusion, as well as further growing my skills in full-stack development.
 
-I like working with user-focused software and aim to grow as a full-stack developer and machine-learning engineer.
-
-🌱 I am currently learning new AI and web-based technologies.
-
-I'm open to work - remotely for anywhere in the world, or on-site/remotely in India.
-
+I'm currently open to working remotely, or work on-site in India.
 📫 You can reach me at  [satymshrma+DMs@gmail.com](mailto:satymshrma+DMs@gmail.com)
-
+Feel free to reach out to me for any other reason too.
 <!--
 **satymshrma/satymshrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
