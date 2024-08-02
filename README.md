@@ -7,7 +7,6 @@ I like working with user-focused software and working with full-stack & machine-
 
 I'm currently open to working remotely, or work on-site in India.
 📫 You can reach me at  [satymshrma+DMs@gmail.com](mailto:satymshrma+DMs@gmail.com)
-Feel free to reach out to me for any other reason too.
 <!--
 **satymshrma/satymshrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
