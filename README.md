@@ -5,7 +5,7 @@ I'm a Software Engineer from Dehradun, Uttrakhand, India.
 I like working with user-focused software and working with full-stack & machine-learning tech.
 🌱 I am currently learning new AI technologies like LLMs & Stable Diffusion, as well as further growing my skills in full-stack development.
 
-I'm currently open to working remotely, or work on-site in India.
+I'm currently open to working remotely or on-site.
 📫 You can reach me at  [satymshrma+DMs@gmail.com](mailto:satymshrma+DMs@gmail.com)
 <!--
 **satymshrma/satymshrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
